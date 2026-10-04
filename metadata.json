@@ -1,0 +1,6 @@
+{
+  "name": "Gemini AI Creative Studio",
+  "description": "An interactive, multi-purpose AI assistant dashboard featuring structured document canvases, creative writing partners, prompt engineering tools, and responsive text analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
